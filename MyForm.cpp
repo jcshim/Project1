@@ -1,3 +1,6 @@
+// 'WinForms Ã¢ ¶ç¿ì±â
+// https ://vipeveloper.tistory.com/32
+
 #include "MyForm.h"
 using namespace System;
 using namespace System::Windows::Forms;
